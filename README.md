@@ -23,5 +23,5 @@ BS Applied Mathematics — Cavite State University
 Pursuing ASP actuarial credentials
 Target: Health and life insurance pricing
 
-📧 [your email]
-💼 [LinkedIn URL]
+📧 rcso.pro@gmail.com
+💼 https://www.linkedin.com/in/ron-ortilla/
