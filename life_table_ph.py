@@ -8,8 +8,6 @@ This script builds an abridged life table for the Philippines
 using registered death counts from the PSA and population
 estimates from the 2020 Census projections.
 
-Author: [Your Name]
-GitHub: [Your GitHub URL]
 """
 
 import pandas as pd
